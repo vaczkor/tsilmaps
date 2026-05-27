@@ -514,4 +514,3 @@
 52.101.68.0/24            # cribwise.com                                         - RÁBA
 185.51.188.118            # littletrans.eu - mail.littletrans.eu                 - RÁBA
 185.51.188.88             # littletrans.eu - teeightyeight.tarhely.eu            - RÁBA
-185.51.191.29
