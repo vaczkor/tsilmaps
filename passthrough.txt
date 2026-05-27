@@ -510,3 +510,5 @@
 69.42.215.252             # freedns.afraid.org                                   - VK
 23.90.104.169             # metro.co.hu                                          - RÁBA
 207.54.77.186             # metro.co.hu                                          - RÁBA
+52.101.73.0/24            # cribwise.com                                         - RÁBA
+52.101.68.0/24            # cribwise.com                                         - RÁBA
