@@ -516,3 +516,4 @@
 185.51.188.88             # littletrans.eu - teeightyeight.tarhely.eu            - RÁBA
 80.249.162.144            # arukereso.hu                                         - levIT
 195.228.152.164           # daruunio.hu                                          - RÁBA
+209.85.0.0/16             # google mail                                          - RÁBA
