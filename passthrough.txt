@@ -517,3 +517,4 @@
 80.249.162.144            # arukereso.hu                                         - levIT
 195.228.152.164           # daruunio.hu                                          - RÁBA
 209.85.0.0/16             # google mail                                          - RÁBA
+5.182.155.11              # hoffmann-group.com                                   - REKARD
