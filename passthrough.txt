@@ -518,4 +518,5 @@
 195.228.152.164           # daruunio.hu                                          - RÁBA
 209.85.0.0/16             # google mail                                          - RÁBA
 185.51.188.53             # balogmetal.hu mail                                   - CSABAcast
-80.77.123.93              # kslogistic.hu / huniroyal.com mail / partner.samsung.com                  - CSABAcast
+80.77.123.93              # kslogistic.hu / huniroyal.com / partner.samsung.com                  - CSABAcast
+203.254.224.12            # mailin.samsung.com                                   - CSABAcast
