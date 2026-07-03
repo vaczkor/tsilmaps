@@ -521,4 +521,5 @@
 80.77.123.93              # kslogistic.hu / huniroyal.com / partner.samsung.com                  - CSABAcast
 203.254.224.12            # mailin.samsung.com                                   - CSABAcast
 193.224.163.38            # mx.edu.hu                                            - RÁBA
-195.199.205.90            # mx.edu.hu                                             - RÁBA
+195.199.205.90            # mx.edu.hu                                            - RÁBA
+185.249.220.0/24          # kontron mlsend                                       - RÁBA
