@@ -523,3 +523,4 @@
 193.224.163.38            # mx.edu.hu                                            - RÁBA
 195.199.205.90            # mx.edu.hu                                            - RÁBA
 185.249.220.0/24          # kontron mlsend                                       - RÁBA
+148.203.151.248           # audi.mx                                              - CSABAcast
