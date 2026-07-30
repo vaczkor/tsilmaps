@@ -524,3 +524,5 @@
 195.199.205.90            # mx.edu.hu                                            - RÁBA
 185.249.220.0/24          # kontron mlsend                                       - RÁBA
 148.203.151.248           # audi.mx                                              - CSABAcast
+52.101.73.0/24            # professional.hu                                      - Komplexfaktor
+52.101.68.0/24            # professional.hu                                      - Komplexfaktor
