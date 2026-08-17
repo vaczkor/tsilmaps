@@ -526,3 +526,4 @@
 148.203.151.248           # audi.mx                                              - CSABAcast
 52.101.73.0/24            # professional.hu                                      - Komplexfaktor
 52.101.68.0/24            # professional.hu                                      - Komplexfaktor
+159.183.219.123           # gls-group.com                                        - levIT
