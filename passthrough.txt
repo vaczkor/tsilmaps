@@ -527,3 +527,4 @@
 52.101.73.0/24            # professional.hu                                      - Komplexfaktor
 52.101.68.0/24            # professional.hu                                      - Komplexfaktor
 159.183.219.123           # gls-group.com                                        - levIT
+159.183.118.133           # texas instruments                                    - levIT
