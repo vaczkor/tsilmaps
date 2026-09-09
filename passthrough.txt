@@ -528,3 +528,10 @@
 52.101.68.0/24            # professional.hu                                      - Komplexfaktor
 159.183.219.123           # gls-group.com                                        - levIT
 159.183.118.133           # texas instruments                                    - levIT
+193.224.163.38            # mx.edu.hu                                            - RÁBA
+194.126.248.35            #lkw-walter.com                                        - RÁBA
+194.126.248.36            #lkw-walter.com                                        - RÁBA
+194.126.248.37            #lkw-walter.com                                        - RÁBA
+194.126.248.34            #lkw-walter.com                                        - RÁBA
+194.126.248.33            #lkw-walter.com                                        - RÁBA
+194.126.248.38            #lkw-walter.com                                        - RÁBA
