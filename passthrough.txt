@@ -536,3 +536,4 @@
 194.126.248.33            #lkw-walter.com                                        - RÁBA
 194.126.248.38            #lkw-walter.com                                        - RÁBA
 149.72.221.226            #lkw-walter.com                                        - RÁBA
+159.183.225.145           #culligan.hu                                           - RÁBA
