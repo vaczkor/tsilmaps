@@ -544,3 +544,5 @@
 52.101.41.183             #mail.kasznarleonardos.com                             - Ulviczki
 191.232.235.2             #mail2.kasznarleonardos.com                            - Ulviczki
 45.79.58.12               #backup.kasznarleonardos.com                           - Ulviczki
+52.101.197.95             #mail-brazilsouthazon11020095.outbound.protection.outlook.com  - Ulviczki
+40.107.203.99             #mail-brazilsouthazon11022099.outbound.protection.outlook.com  - Ulviczki
