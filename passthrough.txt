@@ -547,3 +547,4 @@
 52.101.197.95             #mail-brazilsouthazon11020095.outbound.protection.outlook.com  - Ulviczki
 40.107.203.99             #mail-brazilsouthazon11022099.outbound.protection.outlook.com  - Ulviczki
 185.33.52.29              # mx.dotroll.com                                       - RÁBA
+145.236.141.33            # telekom fix                                          - CSABAcast
