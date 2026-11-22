@@ -549,3 +549,4 @@
 185.33.52.29              # mx.dotroll.com                                       - RÁBA
 145.236.141.33            # telekom fix                                          - CSABAcast
 2.59.170.197              # ncore tracker                                        - VK
+68.183.204.194            # JellyFin repo                                        - VK
